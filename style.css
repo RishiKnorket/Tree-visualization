@@ -1,0 +1,19 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+.node circle {
+  fill: #999;
+  stroke: #041528;
+  stroke-width: 1px;
+}
+.node text {
+  font: 12px sans-serif;
+}
+.node--internal circle {
+  fill: #f40d0d;
+}
+.link {
+  fill: none;
+  stroke: #d7d7d7;
+  stroke-width: 1.5px;
+}
